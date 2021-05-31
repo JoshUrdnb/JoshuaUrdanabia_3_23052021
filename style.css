@@ -686,6 +686,12 @@ p {
     font-family: "Open Sans";
 }
 
+.quote{
+    padding: 2rem;
+    margin: 3rem;
+    font-size: 2.2rem;
+}
+
 .cta-hero {
     margin-top: 22px;
     color: #FFFFFF!important;
