@@ -640,10 +640,6 @@ a {
     max-width: 1000px;
 }
 
-.hero-bloc-text {
-    font-size: 38px;
-}
-
 .hero-bloc-text-sub {
     font-size: 36px;
 }
@@ -760,7 +756,6 @@ h4 {
 
 .tc-white {
     color: #FFF!important;
-    font-size: 30px;
 }
 
 .btn-atomic-tangerine {
@@ -1020,8 +1015,8 @@ h4 {
 
 
 .bdf-blur{
-    backdrop-filter: blur(2px);
-    border-radius: 1rem;
+    backdrop-filter: blur(15px);
+    border-radius: 15px;
 }
 
 .h2{
