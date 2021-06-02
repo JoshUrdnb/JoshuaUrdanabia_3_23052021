@@ -1022,3 +1022,9 @@ h4 {
 .h2{
     position: relative;
 }
+
+.bgc-form{
+    background-color: grey;
+    border-radius: 45px;
+    padding: 3rem;
+}
