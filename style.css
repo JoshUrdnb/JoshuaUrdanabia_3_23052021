@@ -1019,8 +1019,8 @@ h4 {
 
 
 .bdf-blur{
-    backdrop-filter: blur(2px);
-    border-radius: 1rem;
+    backdrop-filter: blur(15px);
+    border-radius: 15px;
 }
 
 .h2{
