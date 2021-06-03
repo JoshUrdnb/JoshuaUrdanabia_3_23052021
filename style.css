@@ -720,7 +720,7 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF!important;
+    color: #333!important;
 }
 
 .portfolio-thumb {
@@ -736,11 +736,6 @@ h4 {
     box-shadow: 0px 4px 9px rgba(0, 0, 0, 0.3);
 }
 
-.black-background {
-    background-color: rgba(165, 147, 99, 0.7);
-    padding: 40px 40px 40px 40px;
-}
-
 .bold-link {
     font-weight: 900;
     text-decoration: underline!important;
@@ -751,21 +746,22 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #BE5A19;
+    background-color: #FFB155;
 }
 
 .tc-white {
-    color: #FFF!important;
+    color: #333!important;
 }
 
 .btn-atomic-tangerine {
-    background: #BE5A19;
-    color: #FFFFFF!important;
+    background: #FFB155;
+    color: #333!important;
+    font-weight: 700;
 }
 
 .btn-atomic-tangerine:hover {
-    background: #AF6249!important;
-    color: #FFFFFF!important;
+    background: #FFC555!important;
+    color: #000!important;
 }
 
 .ltc-white {
@@ -1032,6 +1028,8 @@ h4 {
 address{
     text-align: center;
     padding-top: 15rem;
+    font-size: 16px;
+    font-weight: 700;
 }
 
 .email-color{
@@ -1061,4 +1059,10 @@ address{
 .bloc-lg-2{
     padding-bottom: 100px;
     margin-top: 100px;
+}
+
+.bgc-new-orange{
+    background-color: #FFB155;
+    border-radius: 25px;
+    padding: 40px 40px 40px 40px;
 }
