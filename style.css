@@ -1009,13 +1009,7 @@ h4 {
     }
 }
 
-
-.bdf-blur{
-    backdrop-filter: blur(15px);
-    border-radius: 15px;
-}
-
-.h2{
+.p-rel{
     position: relative;
 }
 
