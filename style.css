@@ -1028,3 +1028,18 @@ h4 {
     border-radius: 45px;
     padding: 3rem;
 }
+
+address{
+    text-align: center;
+    padding-top: 15rem;
+}
+
+.email-color{
+    color: #BE5A19!important;
+}
+
+@media (max-width: 375px){
+    address{
+        padding-top: 3rem;
+    }
+}
