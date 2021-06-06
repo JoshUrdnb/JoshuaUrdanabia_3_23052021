@@ -1107,3 +1107,19 @@ address {
 img {
     object-fit: contain
 }
+
+h1{
+    font-size: 26px!important;
+}
+
+h2{
+    font-size: 22px!important;
+}
+
+h3{
+    font-size: 18px!important;
+}
+
+.row{
+    margin: auto!important;
+}
