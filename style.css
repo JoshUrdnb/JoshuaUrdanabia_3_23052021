@@ -1103,7 +1103,3 @@ address {
     border-radius   : 25px;
     padding         : 40px 40px 40px 40px
 }
-
-img {
-    object-fit: contain
-}
