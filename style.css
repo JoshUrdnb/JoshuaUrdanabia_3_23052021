@@ -1103,3 +1103,19 @@ address {
     border-radius   : 25px;
     padding         : 40px 40px 40px 40px
 }
+
+img {
+    object-fit: contain
+}
+
+h1{
+    font-size: 26px!important;
+}
+
+h2{
+    font-size: 22px!important;
+}
+
+h3{
+    font-size: 18px!important;
+}
